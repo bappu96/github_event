@@ -8,3 +8,4 @@ This contains list of all current contributors
 5. Sayan Kumar Pal
 6. Soumik Ranjan Dasgupta
 7. Subhrasankar Chatterjee
+8. Anuran Pandit
